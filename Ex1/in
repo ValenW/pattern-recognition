@@ -1,0 +1,9 @@
+4
+output
+dataset\test0.bmp 33 3.3
+dataset\test0.bmp 224 0.2
+dataset\test1.bmp 456 10
+dataset\test1.bmp 180 0.3
+380 200 200 440 700 440 2
+700 500 900 500 1000 900 5
+300 300 50 15
